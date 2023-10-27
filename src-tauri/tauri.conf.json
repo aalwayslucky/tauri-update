@@ -7,7 +7,7 @@
     "beforeDevCommand": "yarn start",
     "beforeBuildCommand": "yarn build",
     "devPath": "http://localhost:1420",
-    "distDir": "../build",
+    "distDir": "../dist",
     "withGlobalTauri": false
   },
   "tauri": {
@@ -52,9 +52,7 @@
     "updater": {
       "active": false,
       "dialog": false,
-      "endpoints": [
-        "https://youtu.be/ZXjlZBisYPQ"
-      ],
+      "endpoints": ["https://youtu.be/ZXjlZBisYPQ"],
       "pubkey": ""
     },
     "allowlist": {
