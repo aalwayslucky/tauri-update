@@ -1,11 +1,23 @@
-{
-  "version": "2.5.2",
-  "notes": "",
-  "pub_date": "2023-10-27T06:45:54.594Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5dDBUQ3I2MjZUTm5VOVV6SG9tN1NjQjFIVXVUbURjRlREOGdtTWZYdUlMY0FBQkFBQUFBQUFBQUFBQUlBQUFBQTJUdkZHbU1vNEl0cVBJWDIzZWlTRDFpVUt3RmUvdTlhL3FOb1ZZSDBWcXkveFRmZWFjR2p4bk14c0JEWStLMnBTM3RCS3dSSmpBQWp2K3UzekNtQm5yNjVUSXdVNFZsZXBWWnJYdUowNnhtaEhPbVJJS2VhZ05LQWw2dUthSW5tRHd2b1VGdGRTdU09Cg==",
-      "url": "https://github.com/aalwayslucky/NimbusTrading/releases/download/untagged-fc82d6acb8993a839493/NimbusTrading_2.5.2_x64-setup.exe?token=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"
-    }
-  }
-}
+ {
+          "version": "v3.0.8",  (can be any string)
+          "notes": "- Test updater",
+          "pub_date": "2022-11-13T03:20:32Z",
+          "platforms": {
+            "linux-x86_64": {
+              "url": "https://github.com/elibroftw/google-keep-desktop-app/releases/download/v1.0.8/google-keep_1.0.8_amd64.AppImage.tar.gz",
+              "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5T0RDQk9tMTZIeGhnOU8xcGM4QldLWm5SOVluTk81cFJ6WnNNRU5PZVl2Y0FBQkFBQUFBQUFBQUFBQUlBQUFBQVovVWw1Q3NnRWhsKzVqQzdicVRCcHZTNWlydDdudkxkWUNHTXIzaUhsZ2FXNDNRckY0UlJ4eXZRODZrNENlR3dEdTArQVVuTWRaa1NwcCs2aXFwRnZrNk9TMnQ5THNCeFp4Z2F6dldGd3U3WFVTUnpONjNidCtldEJIWmduMDAxK2Iwejk2c2J0OEk9Cg=="
+            },
+            "darwin-x86_64": {
+              "url": "https://github.com/elibroftw/google-keep-desktop-app/releases/download/v1.0.8/Google.Keep.app.tar.gz",
+              "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5T0RDQk9tMTZIeGhnOU8xcGM4QldLWm5SOVluTk81cFJ6WnNNRU5PZVl2Y0FBQkFBQUFBQUFBQUFBQUlBQUFBQVovVWw1Q3NnRWhsKzVqQzdicVRCcHZTNWlydDdudkxkWUNHTXIzaUhsZ2FXNDNRckY0UlJ4eXZRODZrNENlR3dEdTArQVVuTWRaa1NwcCs2aXFwRnZrNk9TMnQ5THNCeFp4Z2F6dldGd3U3WFVTUnpONjNidCtldEJIWmduMDAxK2Iwejk2c2J0OEk9Cg=="
+            },
+            "darwin-aarch64": {
+              "url": "https://github.com/elibroftw/google-keep-desktop-app/releases/download/v1.0.8/Google.Keep.app.tar.gz",
+              "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5T0RDQk9tMTZIeGhnOU8xcGM4QldLWm5SOVluTk81cFJ6WnNNRU5PZVl2Y0FBQkFBQUFBQUFBQUFBQUlBQUFBQVovVWw1Q3NnRWhsKzVqQzdicVRCcHZTNWlydDdudkxkWUNHTXIzaUhsZ2FXNDNRckY0UlJ4eXZRODZrNENlR3dEdTArQVVuTWRaa1NwcCs2aXFwRnZrNk9TMnQ5THNCeFp4Z2F6dldGd3U3WFVTUnpONjNidCtldEJIWmduMDAxK2Iwejk2c2J0OEk9Cg=="
+            },
+            "windows-x86_64": {
+              "url": "https://github.com/elibroftw/google-keep-desktop-app/releases/download/v1.0.8/Google.Keep_1.0.8_x64_en-US.msi.zip",
+              "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5T0RDQk9tMTZIeGhnOU8xcGM4QldLWm5SOVluTk81cFJ6WnNNRU5PZVl2Y0FBQkFBQUFBQUFBQUFBQUlBQUFBQVovVWw1Q3NnRWhsKzVqQzdicVRCcHZTNWlydDdudkxkWUNHTXIzaUhsZ2FXNDNRckY0UlJ4eXZRODZrNENlR3dEdTArQVVuTWRaa1NwcCs2aXFwRnZrNk9TMnQ5THNCeFp4Z2F6dldGd3U3WFVTUnpONjNidCtldEJIWmduMDAxK2Iwejk2c2J0OEk9Cg=="
+            }
+          }
+        }
